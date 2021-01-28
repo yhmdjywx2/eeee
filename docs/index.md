@@ -1,37 +1,33 @@
-## Welcome to GitHub Pages
+<html><head></head><body><pre style="word-wrap: break-word; white-space: pre-wrap;">樱花满地集于我心
+楪舞纷飞祈愿相随
+ 樱千本纷飞
+ 花落曳芬芳
+ 满空悠悠笛
+ 地藏爱与伤
+ 集愿千万万
+ 于此泪殇殇
+ 我自去冠后
+ 心中未曾惘
+ 楪舞未央柳
+ 舞蝶谁相随
+ 纷飞雪满天
+ 飞雪谁眉间
+ 祈盼王冠落
+ 愿知你真名
+ 相绊羁天涯
+ 随风迎夕阳   
+              -献给王与楪祈    -献给一切温柔之人
 
-You can use the [editor on GitHub](https://github.com/yhmdjywx2/eeee/edit/gh-pages/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/yhmdjywx2/eeee/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+集，你有读过《善良的国王》吗
+那个国王非常善良
+他把钱分给大家，还把土地分给大家
+结果整个国家都不复存在了
+虽然大家都责怪这个国王
+可是我非常喜欢这个国王
+大概这就是我的初恋吧
+集
+很像那个国王
+因为太善良，搞得自己走头无路
+【我觉得……集，一定能够成为一个好国王】 
+【所以……】</pre></body></html>
